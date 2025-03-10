@@ -1,0 +1,23 @@
+
+---------------------------
+--- HOW TO START MINING ---
+---------------------------
+
+There is nothing more simple.
+Just run the "xmrig" and let it turn.
+
+You can open a terminal, reach the extracted directory like that : 
+# cd /home/mynameorsomething/MyMinerDirectory/
+
+then lanch it without any configuration :
+# ./xmrig
+
+... If there is a privilege problem :
+# chmod +x xmrig
+
+and then you should be able to execute it :
+# ./xmrig
+
+If you want to change any configuration check into config.json. (if you know how to do it...)
+
+Happy mining !
